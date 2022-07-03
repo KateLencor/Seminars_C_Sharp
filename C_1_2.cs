@@ -1,4 +1,6 @@
-﻿Console.Write("Введите первое число  ");
+﻿//Задача 2: Напишите программу, которая принимает 
+//на вход три числа и выдаёт максимальное из этих чисел.
+Console.Write("Введите первое число  ");
 string Chislo1 = Console.ReadLine();
 double a = double.Parse(Chislo1);
 Console.Write("Введите второе число  ");
